@@ -31,7 +31,7 @@ body {
 } */
 
 .col.hidden {
-  background-color: #efa8e4;
+  background-color: #e43f5a;
   cursor: pointer;
 }
 
@@ -45,4 +45,13 @@ body {
 
 .row .col:last-child {
   border-right: none;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  color: #e43f5a;
 }
